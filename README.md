@@ -1,2 +1,2 @@
-# Past-Tense-Quiz
-This is a past tense quiz, and its help you if had a problem with past tense in english
+# Quizzz
+This is a quiz page, and its help you if had a problem with some education in school
